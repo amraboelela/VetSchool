@@ -1,0 +1,79 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXFileReference section */
+		F5D040932F92F36C0050FCF4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		F5D040942F92F36C0050FCF4 /* CLAUDE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = CLAUDE.md; sourceTree = "<group>"; };
+		F5D040952F92F36C0050FCF4 /* Proposal.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Proposal.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		F5D0408C2F92F36C0050FCF4 = {
+			isa = PBXGroup;
+			children = (
+				F5D040932F92F36C0050FCF4 /* README.md */,
+				F5D040942F92F36C0050FCF4 /* CLAUDE.md */,
+				F5D040952F92F36C0050FCF4 /* Proposal.md */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		F5D0408D2F92F36C0050FCF4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 2610;
+			};
+			buildConfigurationList = F5D040902F92F36C0050FCF4 /* Build configuration list for PBXProject "VetSchool" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F5D0408C2F92F36C0050FCF4;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		F5D040912F92F36C0050FCF4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		F5D040922F92F36C0050FCF4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F5D040902F92F36C0050FCF4 /* Build configuration list for PBXProject "VetSchool" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F5D040912F92F36C0050FCF4 /* Debug */,
+				F5D040922F92F36C0050FCF4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F5D0408D2F92F36C0050FCF4 /* Project object */;
+}
