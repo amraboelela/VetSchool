@@ -10,6 +10,7 @@
 		F5D040932F92F36C0050FCF4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		F5D040942F92F36C0050FCF4 /* CLAUDE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = CLAUDE.md; sourceTree = "<group>"; };
 		F5D040952F92F36C0050FCF4 /* Proposal.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Proposal.md; sourceTree = "<group>"; };
+		F5D040962F92F36C0050FCF4 /* privacy-policy.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = "privacy-policy.html"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -19,6 +20,7 @@
 				F5D040932F92F36C0050FCF4 /* README.md */,
 				F5D040942F92F36C0050FCF4 /* CLAUDE.md */,
 				F5D040952F92F36C0050FCF4 /* Proposal.md */,
+				F5D040962F92F36C0050FCF4 /* privacy-policy.html */,
 			);
 			sourceTree = "<group>";
 		};
